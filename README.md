@@ -21,7 +21,9 @@ return <View style={style} />;
 ```
 
 ⚡️ Generate optimized, dynamic styles just when you need it
+
 ⏩ Skip unecessary style object recreations
+
 💅 Get `StyleSheet.create`d styles, even when they're dynamic
 
 ## Usage
